@@ -1,0 +1,61 @@
+h1{
+    text-transform: uppercase;
+    text-decoration: underline;
+    color: #EAD8B1;
+}
+body
+{
+    background-color: #3A6D8C;
+}
+.information{
+    
+color: #EDE8DC;
+border: 5px solid;
+border-radius: 15px;
+padding: 10px;
+}
+b{
+    color: black;
+    text-transform: uppercase;
+}
+table, th,td
+{
+    border: 1px solid;
+    border-collapse: collapse;
+    padding: 10px;
+    
+
+}
+th{
+    background-color: #FFD7C4;
+
+}
+td{
+    background-color: #C4D7FF;
+}
+.info{
+    color: #FFF7D1;
+    margin-right: 200px;
+}
+    .education{
+        border: 5px solid  #EDE8DC;
+        border-radius: 15px;
+        padding: 10px;
+        
+    }
+
+li{
+    color: #EAD8B1;
+
+}
+.skill
+{
+    border: 5px solid #EDE8DC;
+    border-radius: 15px;
+    text-decoration: underline;
+    padding: 5px;
+}
+h4{
+    color:#EDE8DC ;
+}
+
